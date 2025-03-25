@@ -1,11 +1,10 @@
 {
-	"id": "my-test",
-	"name": "My Test",
+	"id": "central-todos",
+	"name": "Central Todos",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Collect all your Todos in a central file to gain a overview.",
 	"author": "Me",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/Linie3",
 	"isDesktopOnly": false
 }
